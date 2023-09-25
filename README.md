@@ -1,3 +1,3 @@
 # chen.cheng.github.io
 
-Welcome my homepage!
+Welcome to my homepage!
